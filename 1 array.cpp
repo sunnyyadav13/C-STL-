@@ -15,7 +15,6 @@ int main()
     {
         cout << a[i] << endl;
     }
-
     cout << "Element at 2nd Index-> " << a.at(2) << endl;
 
     cout << "Empty or not-> " << a.empty() << endl;
